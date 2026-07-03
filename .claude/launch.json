@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "date-invite",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "3399", "--directory", "E:\\Claude"],
+      "port": 3399
+    },
+    {
+      "name": "portfolio",
+      "runtimeExecutable": "C:\\Program Files\\Maxon Cinema 4D 2025\\resource\\modules\\python\\libs\\win64\\python.exe",
+      "runtimeArgs": ["-m", "http.server", "3400", "--directory", "E:\\Claude\\Portfolio"],
+      "port": 3400
+    }
+  ]
+}
